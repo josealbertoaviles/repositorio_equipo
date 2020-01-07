@@ -6,6 +6,7 @@ public class equipo {
 		// TODO Auto-generated method stub
 		System.out.println("trabajo en equipo");
 		System.out.println("Travajo finalizado");
+		System.out.println("Travajo finalizado");
 	}
 
 }
